@@ -41,3 +41,15 @@
     letter-spacing: 2px;
   }
 }
+.brand img{
+  width:55px !important;
+  height:55px !important;
+  object-fit:contain;
+  display:block;
+}
+
+header .brand{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
