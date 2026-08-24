@@ -9,5 +9,5 @@ contact.html
 style.css
 script.js
 
-WhatsApp order number is set to +91 95105 84191.
+WhatsApp order number is set to +91 8780009392
 To publish with GitHub Pages: upload ALL files to the repository root, keep index.html in the root, then Settings > Pages > Deploy from a branch > main > /(root) > Save.
