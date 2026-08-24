@@ -1,0 +1,1 @@
+let cart=Number(localStorage.getItem("ec_cart")||0);function renderCart(){document.querySelectorAll("#cart").forEach(x=>x.textContent=cart)}function addCart(){cart++;localStorage.setItem("ec_cart",cart);renderCart();alert("Added to cart ✓");}document.addEventListener("DOMContentLoaded",renderCart);
